@@ -1,2 +1,2 @@
-# Huster-yxia.github.io
+# huster-yxia.github.io
 Repository for yxia's homepage website.
